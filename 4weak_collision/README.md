@@ -3,5 +3,5 @@
 Compile with OpenMP
 
 ```shell
-$  gcc -fopenmp -o strong_collision strong_collision.c
+$  gcc -fopenmp -o weak_collision weak_collision.c
 ```
